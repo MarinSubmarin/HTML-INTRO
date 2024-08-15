@@ -15,7 +15,7 @@ body{
 #fakebody1{
     font-size: 20px;
     border: solid;
-    margin-left: 25%;
+    margin-left: 180px;
     background-image: linear-gradient(to top,rgb(176, 248, 176),rgb(105, 201, 246));
     width: 625px;
     height: 625px;
@@ -31,7 +31,7 @@ body{
     margin-top: 10px;
 }
 img{
-    width: 27.5%;
+    width: 420px;
     border:solid 5px;
     
 }
