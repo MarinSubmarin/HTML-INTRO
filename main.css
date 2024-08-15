@@ -1,0 +1,37 @@
+body{ 
+    background-image: linear-gradient(rgb(176, 248, 176),rgb(105, 201, 246));
+}
+#title{ 
+    text-align: center;
+    font-size: 70px;
+    margin: 0px;
+    text-decoration: underline;
+}
+#fakebody0{
+    float:left;
+    width:55%;
+    padding: 5px;
+}
+#fakebody1{
+    font-size: 20px;
+    border: solid;
+    margin-left: 180px;
+    background-image: linear-gradient(to top,rgb(176, 248, 176),rgb(105, 201, 246));
+    width: 625px;
+    height: 625px;
+}
+
+#abt{
+    margin-left: 270px;
+    margin-top: 10px;
+    text-decoration:underline;
+}
+#fakebody2{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+img{
+    width: 420px;
+    border:solid 5px;
+    
+}
