@@ -9,17 +9,19 @@ body{
 }
 #fakebody0{
     text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 #fakebody1{
     font-size: 20px;
     border: solid;
-    
     background-image: linear-gradient(to top,rgb(176, 248, 176),rgb(105, 201, 246));
     
 }
 
 #abt{
-    
     text-decoration:underline;
 }
 #fakebody2{
@@ -27,6 +29,9 @@ body{
     margin-top: 10px;
 }
 img{
-    border:solid 5px;
-    
+    border:solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
